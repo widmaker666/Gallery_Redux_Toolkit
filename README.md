@@ -1,5 +1,3 @@
-# ReduxToolkit_train
-
 ## Description
 
 ReduxToolkit_train est une application React qui utilise Redux Toolkit pour gérer l'état global de l'application. Cette application permet de créer, mettre à jour, supprimer et publier des titres de photos avec leur année associée. La base de données utilisée est en format JSON.
